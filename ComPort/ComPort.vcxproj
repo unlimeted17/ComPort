@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\GitHub\Analis\ParserClass.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="ParserClass.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\GitHub\Analis\ParserClass.h" />
+    <ClInclude Include="ParserClass.h" />
     <ClInclude Include="stdfax.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
